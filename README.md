@@ -31,9 +31,9 @@ pip install opencv-python numpy
 
 Download the required model files:
 
-Deploy Prototxt
+deploy.prototxt : https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/deploy.prototxt
 
-Caffe Model
+Caffe Model : https://github.com/opencv/opencv_3rdparty/blob/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000_fp16.caffemodel
 
 Save these files in the project directory.
 
