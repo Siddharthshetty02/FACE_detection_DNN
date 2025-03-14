@@ -77,3 +77,12 @@ Reduce the confidence threshold to detect more faces (default: 0.5).
 If you get an error "Can't open deploy.prototxt", check if the file paths are correct.
 
 Make sure OpenCV is properly installed using pip show opencv-python.
+
+## 📧 Contact
+For questions or feedback, feel free to reach out:
+📧 siddharthshetty2032005@gmail.com
+🔗 www.linkedin.com/in/siddharth-shetty-657797283
+💻 https://github.com/Siddharthshetty02
+
+## Developer 
+SIDDHARTH RAGHUNATHA SHETTY
